@@ -1,0 +1,1172 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+79 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Assignment$$anonfun$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Assignment.class
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Settings$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Settings.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$10.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$9.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$7.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$8.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$9.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class
+binary dependencies:
+40 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> C:\Users\Rogge Heflin\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> C:\Users\Rogge Heflin\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala
+inheritance external dependencies:
+0 items
+class names:
+79 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Assignment
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Assignment$
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Assignment$$anonfun$1
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> CommonBuild
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> CommonBuild$class
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> GradingFeedback
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> RecordingLogger
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> RecordingLogger$
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> GradingSummary
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> GradingSummary$
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anon$2
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$10
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$11
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$12
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$13
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$14
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$2
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$3
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$4
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$5
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$6
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$7
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$8
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$9
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner$LimitedStringBuffer
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> Settings
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> Settings$
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> StudentBuild
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> StudentBuild$
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> MapMapString
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> MapMapString$
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$3
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$5
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$8
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$8$$anonfun$apply$10
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$8$$anonfun$apply$9
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$3
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$4
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$3
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$4
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$5
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$6
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$7
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$8
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$9
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> StyleChecker
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> StyleChecker$
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> StyleChecker$CustomTextOutput
+used names:
+751 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> %
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> %%
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> &&
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> ==
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> AbstractFunction9
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Assignment
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Build
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> CommonBuild
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Double
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> ManifestFactory
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Map
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> ModuleID
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> None
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Predef
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Product
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> ScalaRunTime
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Seq
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Serializable
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> SettingKey
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> Statics
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> String
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> ^
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> _toString
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> anyHash
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> apply
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> asInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> assert
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> assignment
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> assignmentsMap
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> classType
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> collection
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> commonSourcePackages
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> course
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> courseId
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> dependencies
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> doubleHash
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> eq
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> finalizeHash
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> isInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> itemId
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> key
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> maxScore
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> mix
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> options
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> package
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> packageName
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> partId
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> reflect
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> runtime
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> sbt
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> scala
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> styleScoreRatio
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> styleSheet
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> toGroupID
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> toString
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> typedProductIterator
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> unary_!
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> ||
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> *
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> +
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> +=
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> -
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> <byname>
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> ==
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> AnyRef
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Double
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Error
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> GradingFeedback
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Level
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> ListBuffer
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Logger
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Predef
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> RecordingLogger
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> String
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> StringContext
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Throwable
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Unit
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> Value
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> _root_
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> addDetails
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> addSummary
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> allTestsPassedMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> apply
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> augmentString
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> buffer
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> clear
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> collection
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> compileFailedMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> failed
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> failed_=
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> feedbackDetails
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> feedbackSummary
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> format
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> level
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> log
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> maxScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> maxScore_=
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> maxStyleScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> maxTestScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> message
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> mkString
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> msg
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> mutable
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> newMaxScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> newStyleScoreRatio
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> nonEmpty
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> package
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> perfectStyleMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> res
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> s
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> sbt
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> scala
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> score
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> stripMargin
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> styleProblemsMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> styleScoreRatio
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> styleScoreRatio_=
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> testCompileFailedMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> testExecutionFailedMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> testsFailedMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> totalGradeMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> totalScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> unpackFailedMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> vStyleScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> vStyleScore_=
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> vTestScore
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> vTestScore_=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> !=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> $anon
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> $m
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> $m$untyped
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> $typecreator1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> $u
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> &&
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> *
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> +
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> /
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ::
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> <
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ==
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> >
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> AbstractFunction3
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Any
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> AnyRef
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Callable
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Classpath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Codec
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Defaults
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Executors
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> FastTypeTag
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> File
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Function1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Future
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> GRL
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Generated
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> GradingFeedback
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> GradingSummary
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> GradingSummaryUnpickler1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> IO
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Int
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Keys
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> LimitedStringBuffer
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> List
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ListBuffer
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Map
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Mirror
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Nil
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> None
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Nothing
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Null
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> PReader
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> PickleOps
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Predef
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Process
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ProcessLogger
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Product
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Ref
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaRunTime
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ScalaTestRunner
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Seq
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Serializable
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Settings
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Singleton
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Source
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Statics
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> String
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> StringContext
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> SysProc
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Throwable
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> TimeoutException
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Type
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> TypeCreator
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> TypeTag
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> U
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Unit
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Universe
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> Unpickler
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> _1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> _2
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> _3
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> _4
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> _root_
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> _toString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> allTestsPassed
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> anyHash
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> append
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> apply
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> asInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> asType
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> augmentString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> beginEntry
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> buf
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> cachedMirror
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> cachedMirror_=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> canBuildFrom
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> cancel
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> classpath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> classpathString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> cmd
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> collection
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> computeSummary
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> concurrent
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> currentMirror
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> data
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> delete
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> destroy
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> e
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> endEntry
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> eq
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> executor
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> existentials
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> exitValue
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> fallbackSystemCodec
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> feedback
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> file
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> finalizeHash
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> forkProcess
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> fromFile
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> future
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> genUnpickler
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> get
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> getAbsolutePath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> getClassLoader
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> getLines
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> getOrElse
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> gradeOptions
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> gradingReporter
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> hintStaticallyElidedType
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> hintTag
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> immutable
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> implicitly
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> individualTestTimeout
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> instragentPath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> intPickler
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> internal
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> invokeScalaTestInSeparateProcess
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> io
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ir
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> isEmpty
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> isInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> java
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> json
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> jsonPickleToUnpickleOps
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> key
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> language
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> length
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> lengthCropped
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> lengthCropped_=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> lines
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> lines_=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> lock
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> logError
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> map
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> materializeWeakTypeTag
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> maxOutputLineLength
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> maxOutputLines
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> maxScore
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> maxTestScore
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> memory
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> mix
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> mkString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> msg
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> mutable
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> name
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ne
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> newSingleThreadExecutor
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> options
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> out
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> outFilePath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> outfile
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> package
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> pickleFormat
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> pickling
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> prepend
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> println
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> proc
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> process
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> prop
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> readField
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> reader
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> reader1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> reader2
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> reader3
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> refUnpickler
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> reflect
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> refs
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> replace
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> resourceFiles
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> resourceFilesString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> result
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> run
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> runLog
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> runPathString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> runScalaTest
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> runtime
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> runtimeMirror
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> s
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> sbt
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scala
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestCommand
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestDefaultWeight
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestDefaultWeightProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestIndividualTestTimeoutProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestReadableFilesProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestReportFileProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestReporter
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scalaTestTimeout
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> scaledScore
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> score
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> shortS
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> shutdown
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> staticClass
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> stringPickler
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> stripMargin
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> submit
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> substring
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> summary
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> summaryCmd
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> summaryFilePath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> summaryFileStr
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> summaryProc
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> sys
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> tag
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> tagKey
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> testClasses
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> testEnv
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> testExecutionDebugLog
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> testExecutionFailed
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> testRunPath
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> testsFailed
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> timeout
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> timeoutPerTest
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> to
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> toInt
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> toLong
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> toString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> toTypeConstructor
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> tpe
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> trim
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> typeString
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> typedProductIterator
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unary_!
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unchecked
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> universe
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unlock
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unpickle
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unpickleSummary
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unpickler$unpickle$1
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unpickler$unpickle$2
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> unpickler$unpickle$3
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> util
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> value
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> weakTypeOf
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> xms
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> xmx
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> ||
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> *
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> AnyRef
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> Settings
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> individualTestTimeout
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> maxOutputLineLength
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> maxOutputLines
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> maxSubmitFileSize
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> mb
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scala
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestDefaultWeight
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestDefaultWeightProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestIndividualTestTimeoutProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestReadableFilesProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestReportFileProperty
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestReporter
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> scalaTestTimeout
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> testResultsFileName
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> StudentBuild
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> StudentBuildLike
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> !=
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> $p1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> $p2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> $p3
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> $p4
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> $p5
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> &&
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> +
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> +=
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ---
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> /
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ::
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> :=
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> <
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ==
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> >
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> >=
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> AList
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> AbstractFunction1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Any
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Append
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Array
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Base64
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Byte
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Codec
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> CommonBuild
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Compile
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ConfigKey
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Def
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Defaults
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Failure
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> File
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> FileInputStream
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> FullInstance
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Http
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> HttpOptions
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> HttpResponse
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> IOException
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> InitializeInstance
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> InputKey
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> InputTask
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> InputWrapper
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> JSON
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Keys
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> List
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ManifestFactory
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Map
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> MapMapString
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Nil
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> None
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Nothing
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ParserInput
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ParserInstance
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Path
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Predef
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Product
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Project
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ScalaRunTime
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Scoped
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Seq
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Serializable
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Settings
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> String
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StringContext
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StudentBuildLike
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> StyleChecker
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Success
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> TaskInstance
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> TaskKey
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> TaskStreams
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Test
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Try
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> Unit
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _3
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _4
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _5
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _hashCode
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _root_
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> _toString
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> allFiles
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> alternative
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> apache
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> app
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> append1
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> appendSeq
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> apply
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> args
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> asInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> asString
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assess
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assignment
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assignmentDetails
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assignmentKey
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assignmentName
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assignments
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> assignmentsMap
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> augmentString
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> base
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> base64Jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> baseDirectory
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> binary
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> body
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> bytes
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> canBuildFrom
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> cde
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> classType
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> close
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> code
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> codec
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> collection
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> commonSourcePackages
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> commonSourcePaths
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> commons
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> compile
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> configurationToKey
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> connTimeout
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> connectMsg
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> course
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> courseId
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> courseName
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> data
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> e
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> email
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> encodeBase64
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> eq
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> errPrefix
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> error
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ex
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> exception
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> exists
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> f
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> failSubmit
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> failedConnectMsg
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> failedSubmitMsg
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> fallbackSystemCodec
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> feedback
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> file
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> fileLength
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> filesToFinder
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> filter
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> flat
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> getAbsolutePath
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> getPath
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> headers
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> hs
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> http
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> immutable
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> in
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> inConfig
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> info
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> inputErr
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> inputKey
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> io
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> is
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> isInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> itemId
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> jar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> java
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> json
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> key
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> learnerMsg
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> length
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> libraryDependencies
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> log
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> logger
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> macroValueI
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> macroValueIT
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> make
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> map
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> maxResult
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> maxSubmitFileSize
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ne
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> nsc
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> option
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> org
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> package
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> packageSubmission
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> packageSubmissionFiles
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> packageTaskSettings
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> pair
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> parseFull
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> parsed
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> parserToInput
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> parser_☃☃
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> parsing
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> partId
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> path
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> postData
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> postSubmission
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> prepareJar
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> project
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> pure
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> read
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> reflect
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> relativeTo
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> reportCourseraResponse
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> resp
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> respBody
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> response
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> result
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> richFile
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> root
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> runtime
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> s
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sbt
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> scalaSource
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> scalaTestDependency
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> scalaj
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> score
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sdirs
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> secret
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> set
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> settings
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> singleFileFinder
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sizeRead
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sourceFiles
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sourceMappingsWithoutPackages
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sources
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> spaceDelimited
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> srcs
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> startsWith
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> streams
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> string2path
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> stripMargin
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> styleCheck
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> styleCheckSetting
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> styleSheet
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> submit
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> submitLocal
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> submitLocalSetting
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> submitSetting
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> successfulSubmitMsg
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> sys
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> t6ToTable6
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> toITask
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> toInt
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> toSParser
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> toString
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> tools
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> tuple2
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> tuple5
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> typedProductIterator
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> unary_!
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> unchecked
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> unmanagedSourceDirectories
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> unmanagedSources
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> util
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> value
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> warn
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> withoutCommonSources
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> wrapInitTask_☃☃
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> wrapInit_☃☃
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> writeAll
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> x
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> |
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> ||
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> +
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> -
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> <init>
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> ==
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> AnyRef
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> ByteArrayOutputStream
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> ConfigFactory
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> CustomTextOutput
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Directory
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> File
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> FileSpec
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Int
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Message
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> MessageHelper
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> None
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Nothing
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Option
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Output
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> OutputResult
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Predef
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> PrintStream
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> ScalastyleChecker
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> ScalastyleConfiguration
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Seq
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> String
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> StringContext
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> StyleChecker
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> T
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Tuple2
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> Unit
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> _root_
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> args
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> asInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> augmentString
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> checkFiles
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> column
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> columnNumber
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> com
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> config
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> configFile
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> customMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> errors
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> file
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> fileCount
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> fileCount_=
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> fileSpec
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> files
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> findMessage
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> getAbsolutePath
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> getFiles
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> io
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> isInstanceOf
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> java
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> key
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> level
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> line
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> lineNumber
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> load
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> m
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> math
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> max
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> maxResult
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> message
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> messageHelper
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> messages
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> msg
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> name
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> org
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> output
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> outputResult
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> package
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> penalties
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> pos
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> print
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> println
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> readFromXml
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> report
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> s
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> sbt
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> scala
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> scalastyle
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> score
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> sources
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> stream
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> stripMargin
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> styleSheetPath
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> text
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> toString
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> typesafe
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> warnings
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> x
+product stamps:
+79 items
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Assignment$$anonfun$1.class -> lastModified(1484410478915)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class -> lastModified(1484410478857)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Assignment.class -> lastModified(1484410478909)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class -> lastModified(1484410478929)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class -> lastModified(1484410478922)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class -> lastModified(1484410478960)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class -> lastModified(1484410478973)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class -> lastModified(1484410478986)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class -> lastModified(1484410479009)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class -> lastModified(1484410478996)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class -> lastModified(1484410479034)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class -> lastModified(1484410479016)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class -> lastModified(1484410479089)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class -> lastModified(1484410479093)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class -> lastModified(1484410479096)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class -> lastModified(1484410479098)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class -> lastModified(1484410479106)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class -> lastModified(1484410479110)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class -> lastModified(1484410479113)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class -> lastModified(1484410479116)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class -> lastModified(1484410479119)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class -> lastModified(1484410479123)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class -> lastModified(1484410479125)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class -> lastModified(1484410479128)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class -> lastModified(1484410479135)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class -> lastModified(1484410479139)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class -> lastModified(1484410479143)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class -> lastModified(1484410479145)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class -> lastModified(1484410479153)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class -> lastModified(1484410479084)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class -> lastModified(1484410479176)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class -> lastModified(1484410479166)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class -> lastModified(1484410479159)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class -> lastModified(1484410479186)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class -> lastModified(1484410479041)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Settings$.class -> lastModified(1484410479198)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\Settings.class -> lastModified(1484410479190)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class -> lastModified(1484410479218)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class -> lastModified(1484410479213)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class -> lastModified(1484410479264)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class -> lastModified(1484410479272)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class -> lastModified(1484410479278)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class -> lastModified(1484410479275)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class -> lastModified(1484410479258)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class -> lastModified(1484410479284)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$10.class -> lastModified(1484410479296)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8$$anonfun$apply$9.class -> lastModified(1484410479300)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$8.class -> lastModified(1484410479294)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class -> lastModified(1484410479303)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class -> lastModified(1484410479307)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class -> lastModified(1484410479310)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class -> lastModified(1484410479314)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class -> lastModified(1484410479322)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class -> lastModified(1484410479325)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class -> lastModified(1484410479331)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class -> lastModified(1484410479338)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class -> lastModified(1484410479342)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class -> lastModified(1484410479348)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$7.class -> lastModified(1484410479352)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$8.class -> lastModified(1484410479355)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$9.class -> lastModified(1484410479358)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1484410479380)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1484410479375)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class -> lastModified(1484410479369)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class -> lastModified(1484410479362)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class -> lastModified(1484410479410)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class -> lastModified(1484410479414)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1484410479418)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1484410479429)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class -> lastModified(1484410479433)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class -> lastModified(1484410479442)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class -> lastModified(1484410479444)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1484410479407)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class -> lastModified(1484410479388)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class -> lastModified(1484410479384)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class -> lastModified(1484410479247)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class -> lastModified(1484410479456)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class -> lastModified(1484410479470)
+D:\GitHub\Scala-Assignment02-Funsets\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class -> lastModified(1484410479451)
+source stamps:
+7 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> hash(9c93e24686156540b12d7bcc52d4e5923f8ec13b)
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> hash(465ad938dd5b956be8d9c8c4e0e5ff0ccd34b760)
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> hash(297d92945d895842906dc33807a51dd1fe910e30)
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> hash(d7e0072c3c0c16a01ad0dc727c97ecccf8f7791a)
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> hash(ec89d09f3293126eee5f4127779e8bf052674095)
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> hash(29ad45718bb5700ac1a241254d49b34d77edd762)
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> hash(8c82d5368f9de5f6640c29518229fdf6d796c5af)
+binary stamps:
+19 items
+C:\Program Files\Java\jre1.8.0_112\lib\rt.jar -> lastModified(1483895099152)
+C:\Users\Rogge Heflin\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> lastModified(1389798583000)
+C:\Users\Rogge Heflin\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> lastModified(1415283333000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> lastModified(1423252686000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> lastModified(1439253124000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> lastModified(1439253119000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> lastModified(1439253231000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> lastModified(1439253134000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> lastModified(1439253183000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> lastModified(1439253150000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> lastModified(1439253272000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> lastModified(1439253285000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> lastModified(1439253291000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> lastModified(1439253204000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> lastModified(1452005615000)
+C:\Users\Rogge Heflin\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> lastModified(1449002502000)
+C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> lastModified(1425002097000)
+C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> lastModified(1425002069000)
+C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> lastModified(1425002084000)
+class names:
+19 items
+C:\Program Files\Java\jre1.8.0_112\lib\rt.jar -> java.lang.Object
+C:\Users\Rogge Heflin\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Rogge Heflin\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> org.apache.commons.codec.binary.Base64
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> scala.pickling.FastTypeTag
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> sbt.AList$
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> sbt.inc.Analysis
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> sbt.Alternative
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> sbt.ModuleID
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> sbt.Logger
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> sbt.std.ParserInstance$
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> sbt.Defaults$
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> sbt.package$
+C:\Users\Rogge Heflin\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> sbt.std.TaskStreams
+C:\Users\Rogge Heflin\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> scalaj.http.BaseHttp
+C:\Users\Rogge Heflin\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> org.scalastyle.Output
+C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> scala.tools.nsc.io.package$
+C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> scala.Option
+C:\Users\Rogge Heflin\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> scala.reflect.io.Path$
+internal apis:
+7 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDmnoSJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN2n3ph0AAZub3RpZnlzcQB+AAwb9KbLdAAEd2FpdHNxAH4ADMXNV4t0AAhtYXhTY29yZXNxAH4ADJnmT4l0AAZjb3Vyc2VzcQB+AAyoLgmTdAAOY29weSRkZWZhdWx0JDJzcQB+AAwPal61dAANJGFzSW5zdGFuY2VPZnNxAH4ADGgv15p0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADGNroG10AAxidWlsZExvYWRlcnNzcQB+AAwox+mMdAAIY291cnNlSWRzcQB+AAxDc151dAAMcHJvZHVjdEFyaXR5c3EAfgAMFX1of3QABmVxdWFsc3NxAH4ADMDOApV0AA9zdHlsZVNjb3JlUmF0aW9zcQB+AAyHfTeZdAAOY29weSRkZWZhdWx0JDlzcQB+AAwDtJbzdAAMYXNJbnN0YW5jZU9mc3EAfgAMAcmbwnQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADK2E8Ip0AAxzeW5jaHJvbml6ZWRzcQB+AAy3ZyCkdAANJGlzSW5zdGFuY2VPZnNxAH4ADKksReN0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADD6l82d0AAtwYWNrYWdlTmFtZXNxAH4ADJVVBSR0AAhjYW5FcXVhbHNxAH4ADJHrqUR0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADHk/jAV0AA1wcm9kdWN0UHJlZml4c3EAfgAMljDAwnQACW5vdGlmeUFsbHNxAH4ADN8VaH10AAtyb290UHJvamVjdHNxAH4ADH2GxQx0AANrZXlzcQB+AAzht4KddAAMaXNJbnN0YW5jZU9mc3EAfgAMveBWCnQAB29wdGlvbnNzcQB+AAyctcIHdAAGPGluaXQ+c3EAfgAMp46sZnQAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMKj4SQXQAAj09c3EAfgAMlbonyXQAC0NvbW1vbkJ1aWxkc3EAfgAMfpdRF3QABWNsb25lc3EAfgAMsfa2fHQADmNvcHkkZGVmYXVsdCQ3c3EAfgAM9ZF8snQACnN0eWxlU2hlZXRzcQB+AAwf5iuMdAAGJGluaXQkc3EAfgAMr3qPY3QAE3NjYWxhVGVzdERlcGVuZGVuY3lzcQB+AAzF2cLCdAAGaXRlbUlkc3EAfgAMANZwoHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMkQmplXQABGNvcHlzcQB+AAxHcD1pdAAIdG9TdHJpbmdzcQB+AAwuEMBHdAAKQXNzaWdubWVudHNxAH4ADAAzzh10AAIhPXNxAH4ADFdlioB0AAhwcm9qZWN0c3NxAH4ADDYCUV50AAhnZXRDbGFzc3NxAH4ADM02CA10AA5jb3B5JGRlZmF1bHQkMXNxAH4ADK5HYKl0AAphc3NpZ25tZW50c3EAfgAMBRy1s3QADmNvcHkkZGVmYXVsdCQ2c3EAfgAMI3ZX5nQAAm5lc3EAfgAMuxfkfnQABnBhcnRJZHNxAH4ADIB3FW10AAxkZXBlbmRlbmNpZXNzcQB+AAwcRZVtdAACZXFzcQB+AAz5kcKLdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMZ252nnQACHNldHRpbmdzc3EAfgAMWIN2mHQAAiMjc3EAfgAMxGBvMnQACGZpbmFsaXplc3EAfgAM79pyanQADnByb2R1Y3RFbGVtZW50c3EAfgAMQp1mGHQACGhhc2hDb2Rlc3EAfgAMi0cxs3QADmFzc2lnbm1lbnRzTWFwc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ai3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBfdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AKIBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AItMAAlpbmhlcml0ZWRxAH4Ai0wAB3BhcmVudHNxAH4Ai3hxAH4AqXNxAH4AogF1cQB+AIYAAAAAcHNxAH4AogF1cQB+AIYAAAAAcHNxAH4AogF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKh0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMJzcQB+ALVxAH4AuHNxAH4AuXNxAH4AvHVxAH4AvwAAAANzcQB+AMF0AARqYXZhc3EAfgDBdAACaW9xAH4AxnNxAH4AtXQAB1Byb2R1Y3RxAH4Au3NxAH4AtXQABkVxdWFsc3EAfgC7c3EAfgC1dAAGT2JqZWN0c3EAfgC5c3EAfgC8dXEAfgC/AAAAA3NxAH4AwXEAfgDMc3EAfgDBdAAEbGFuZ3EAfgDGc3EAfgC1dAADQW55cQB+ALtwcHNxAH4AiHEAfgCVdXEAfgCWAAAAAHNxAH4AmAFxAH4AS3VxAH4AmgAAAAB+cQB+AJx0AAVUcmFpdHVxAH4AoAAAAABzcQB+AKIBcQB+AKpwc3EAfgCiAXNxAH4ArHNxAH4AogF1cQB+AIYAAAAAcHNxAH4AogF1cQB+AIYAAAAAcHNxAH4AogF1cQB+ALMAAAADc3EAfgC1dAAFQnVpbGRzcQB+ALlzcQB+ALx1cQB+AL8AAAACc3EAfgDBdAADc2J0cQB+AMZzcQB+ALVxAH4A1HNxAH4AuXNxAH4AvHVxAH4AvwAAAANzcQB+AMFxAH4AzHNxAH4AwXEAfgDacQB+AMZzcQB+ALVxAH4A3HNxAH4AuXNxAH4AvHVxAH4AvwAAAAJzcQB+AMFxAH4AxHEAfgDGcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ3CRyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPRDpcR2l0SHViXFNjYWxhLUFzc2lnbm1lbnQwMi1GdW5zZXRzXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJyT4kaGFWVAsS17zFLU5ZI/jsE7
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAlGPXfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBC7zYp0AAZub3RpZnlzcQB+AAyCztWtdAANbWF4VG90YWxTY29yZXNxAH4ADMYUUq50AAdzdWNjZXNzc3EAfgAMphAPoHQABHdhaXRzcQB+AAxQNcW9dAAIbWF4U2NvcmVzcQB+AAykXYZJdAARdGVzdENvbXBpbGVGYWlsZWRzcQB+AAxNwOCOdAANJGFzSW5zdGFuY2VPZnNxAH4ADLHH21t0AAV0cmFjZXNxAH4ADISTlhp0ABJhbnNpQ29kZXNTdXBwb3J0ZWRzcQB+AAzVbJ8odAATdW5wYWNrRmFpbGVkTWVzc2FnZXNxAH4ADDC2mB10AAR3YXJuc3EAfgAMXX+ws3QACWhhc0Vycm9yc3NxAH4ADJEJDiR0AAx1bnBhY2tGYWlsZWRzcQB+AAyokdaRdAAHdmVyYm9zZXNxAH4ADGpOrIt0AAZlcXVhbHNzcQB+AAxEC/irdAAPc3R5bGVTY29yZVJhdGlvc3EAfgAMiXnPNHQADHBlcmZlY3RTdHlsZXNxAH4ADEsf4Bl0ABN0ZXN0RXhlY3V0aW9uRmFpbGVkc3EAfgAMkTen9XQABWNsZWFyc3EAfgAM2xKuB3QACmFkZERldGFpbHNzcQB+AAyh1XqndAAMYXNJbnN0YW5jZU9mc3EAfgAMwc/CsnQAD2ZlZWRiYWNrU3VtbWFyeXNxAH4ADFfWj9Z0ABF0b3RhbEdyYWRlTWVzc2FnZXNxAH4ADAM88u50AAxtYXhUZXN0U2NvcmVzcQB+AAyUW+2ZdAAKYWRkU3VtbWFyeXNxAH4ADBi1Gbx0AAxzeW5jaHJvbml6ZWRzcQB+AAzJGhHrdAAUc3R5bGVQcm9ibGVtc01lc3NhZ2VzcQB+AAxrTMMQdAAGZmFpbGVkc3EAfgAM6SD83XQAE3BlcmZlY3RTdHlsZU1lc3NhZ2VzcQB+AAywnrPxdAANJGlzSW5zdGFuY2VPZnNxAH4ADNhlKS50AA1tYXhTdHlsZVNjb3Jlc3EAfgAMbY6J73QABmJ1ZmZlcnNxAH4ADIXFUCt0AA5mZWVkYmFja1N0cmluZ3NxAH4ADIbO+N10AARpbmZvc3EAfgAMLFjfS3QACW5vdGlmeUFsbHNxAH4ADA0yX1F0AA5hbGxUZXN0c1Bhc3NlZHNxAH4ADL8X5g90AAVkZWJ1Z3NxAH4ADKciWCd0AAxpc0luc3RhbmNlT2ZzcQB+AAxLs/5hdAAPUmVjb3JkaW5nTG9nZ2Vyc3EAfgAMJorGuHQABjxpbml0PnNxAH4ADHjqgxJ0AA1jb21waWxlRmFpbGVkc3EAfgAMGZWR+XQACnZUZXN0U2NvcmVzcQB+AAyT13ctdAAMcmVhZEFuZENsZWFyc3EAfgAMqnwdiXQABWVycm9yc3EAfgAMQS1B+nQAFXRlc3RFeGVjdXRpb25EZWJ1Z0xvZ3NxAH4ADEGhRJ10AA9HcmFkaW5nRmVlZGJhY2tzcQB+AAxH9HJMdAANc3R5bGVQcm9ibGVtc3NxAH4ADL+Eq0d0AAp0b3RhbFNjb3Jlc3EAfgAMzA8sqHQAAj09c3EAfgAMbCN9H3QAGnRlc3RFeGVjdXRpb25GYWlsZWRNZXNzYWdlc3EAfgAMfgdKbXQABWNsb25lc3EAfgAM8sq0+nQAC3NldE1heFNjb3Jlc3EAfgAM4fepfnQAD2ZlZWRiYWNrRGV0YWlsc3NxAH4ADBlRCG10ABVhbGxUZXN0c1Bhc3NlZE1lc3NhZ2VzcQB+AAyOBV4MdAAIdG9TdHJpbmdzcQB+AAx8u+u4dAACIT1zcQB+AAxKKjxjdAASdGVzdHNGYWlsZWRNZXNzYWdlc3EAfgAMWrNGunQACGdldENsYXNzc3EAfgAMmWCglHQAAm5lc3EAfgAM9rxYMHQAGHRlc3RDb21waWxlRmFpbGVkTWVzc2FnZXNxAH4ADDTU3rZ0AAhpc0ZhaWxlZHNxAH4ADM3fil90AAt2U3R5bGVTY29yZXNxAH4ADCGTlm10AAJlcXNxAH4ADEcxRwR0AANsb2dzcQB+AAwhfrPEdAACIyNzcQB+AAy6gSIvdAAIZmluYWxpemVzcQB+AAwvC+TKdAAIaGFzaENvZGVzcQB+AAzK5pHsdAALdGVzdHNGYWlsZWRzcQB+AAydTrptdAAUY29tcGlsZUZhaWxlZE1lc3NhZ2VzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AuAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AoUwACWluaGVyaXRlZHEAfgChTAAHcGFyZW50c3EAfgCheHEAfgC/c3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A13QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A2HNxAH4Ay3QAA0FueXNxAH4Az3NxAH4A0nVxAH4A1QAAAAJzcQB+ANd0AAVzY2FsYXEAfgDecHBzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AcQB+AFt1cQB+ALAAAAAAfnEAfgCydAAGTW9kdWxldXEAfgC2AAAAAHNxAH4AuAFxAH4AwHBzcQB+ALgBc3EAfgDCc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AyQAAAARzcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAADc2J0cQB+AN5zcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAAFeHNidGlxAH4A3nNxAH4Ay3EAfgDOc3EAfgDPc3EAfgDSdXEAfgDVAAAAA3NxAH4A13EAfgDac3EAfgDXcQB+ANxxAH4A3nNxAH4Ay3EAfgDgc3EAfgDPc3EAfgDSdXEAfgDVAAAAAnNxAH4A13EAfgDlcQB+AN5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZncJHJHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE9EOlxHaXRIdWJcU2NhbGEtQXNzaWdubWVudDAyLUZ1bnNldHNccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURlrZON1blWvo2cjE4OX/DM00t2A=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsb5EOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBztt8F0AAZub3RpZnlzcQB+AAwOb52LdAANbGVuZ3RoQ3JvcHBlZHNxAH4ADGTryRN0AA5jb21wdXRlU3VtbWFyeXNxAH4ADF2hOc10AAR3YWl0c3EAfgAMxk52unQACG1heFNjb3Jlc3EAfgAMYZ9rYXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMoytZxnQADSRhc0luc3RhbmNlT2ZzcQB+AAwA4PQXdAATTGltaXRlZFN0cmluZ0J1ZmZlcnNxAH4ADFkQAjt0AAxwcm9kdWN0QXJpdHlzcQB+AAyMnn1rdAAGZXF1YWxzc3EAfgAM7el0u3QAB3Rlc3RFbnZzcQB+AAz5m5d5dAAQc2NhbGFUZXN0Q29tbWFuZHNxAH4ADESd4tZ0AAxhc0luc3RhbmNlT2ZzcQB+AAx5ejQBdAAMcnVuU2NhbGFUZXN0c3EAfgAMyoVVYHQADHN5bmNocm9uaXplZHNxAH4ADC/cM3Z0AAVzY29yZXNxAH4ADCfUp0t0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMzaZUHQAA2J1ZnNxAH4ADBrw10V0AAhjYW5FcXVhbHNxAH4ADCRfY1V0AA1wcm9kdWN0UHJlZml4c3EAfgAMLh9VjHQACW5vdGlmeUFsbHNxAH4ADA4s9IJ0AAxpc0luc3RhbmNlT2ZzcQB+AAwOxexpdAAOc2NhbGFUZXN0R3JhZGVzcQB+AAw/4Xm+dAAIZmVlZGJhY2tzcQB+AAwhEx6QdAAGPGluaXQ+c3EAfgAMtFTc13QAD1NjYWxhVGVzdFJ1bm5lcnNxAH4ADFU7iqN0AAI9PXNxAH4ADKPPpRt0AAVjbG9uZXNxAH4ADJKa+0p0ACBpbnZva2VTY2FsYVRlc3RJblNlcGFyYXRlUHJvY2Vzc3NxAH4ADGKazR10AA5jb3B5JGRlZmF1bHQkM3NxAH4ADN/+hK10AARjb3B5c3EAfgAMggmp3nQACHRvU3RyaW5nc3EAfgAM6jN11XQADkdyYWRpbmdTdW1tYXJ5c3EAfgAMZcBOBXQADXJ1blBhdGhTdHJpbmdzcQB+AAx7qfZydAACIT1zcQB+AAzJMYXndAAIZ2V0Q2xhc3NzcQB+AAwz9cbKdAAOY29weSRkZWZhdWx0JDFzcQB+AAxsHdCzdAAFbGluZXNzcQB+AAxkKeTTdAACbmVzcQB+AAwPasqtdAALZm9ya1Byb2Nlc3NzcQB+AAwl/qYidAACZXFzcQB+AAwMnkV+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMTHXO3HQAAiMjc3EAfgAMlZSaMHQACGZpbmFsaXplc3EAfgAMY1OGNXQADnByb2R1Y3RFbGVtZW50c3EAfgAMUpKVpHQACGhhc2hDb2Rlc3EAfgAM3qxwAXQAD3VucGlja2xlU3VtbWFyeXNxAH4ADEcWQfl0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAEcQB+AE91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AjgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCVc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AlHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArnNxAH4AoXEAfgCkc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXQABGphdmFzcQB+AK10AAJpb3EAfgCyc3EAfgChdAAHUHJvZHVjdHEAfgCnc3EAfgChdAAGRXF1YWxzcQB+AKdzcQB+AKF0AAZPYmplY3RzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALhzcQB+AK10AARsYW5ncQB+ALJzcQB+AKF0AANBbnlxAH4Ap3Bwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBBdXEAfgCGAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AjAAAAABzcQB+AI4BcQB+AJZwc3EAfgCOAXNxAH4AmHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AJ8AAAACc3EAfgChcQB+AMBzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALhzcQB+AK1xAH4AxnEAfgCyc3EAfgChcQB+AMhzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALBxAH4AsnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVmdwkckdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAT0Q6XEdpdEh1YlxTY2FsYS1Bc3NpZ25tZW50MDItRnVuc2V0c1xwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQpfZKUXYlYQpBtwzgHpR3R/pEOMA==
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBdsVePAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPd8JSx0AA5tYXhPdXRwdXRMaW5lc3NxAH4ADN3xDDp0AAZub3RpZnlzcQB+AAw2/uzkdAAIU2V0dGluZ3NzcQB+AAwEfLCJdAAEd2FpdHNxAH4ADI25n6p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMFEU/Y3QABmVxdWFsc3NxAH4ADHByRrp0ABtzY2FsYVRlc3RSZXBvcnRGaWxlUHJvcGVydHlzcQB+AAxdFnjHdAAMYXNJbnN0YW5jZU9mc3EAfgAMM5zYrXQADHN5bmNocm9uaXplZHNxAH4ADKOMsn90AA0kaXNJbnN0YW5jZU9mc3EAfgAMUTHkZ3QAE3Rlc3RSZXN1bHRzRmlsZU5hbWVzcQB+AAw5L4IPdAAec2NhbGFUZXN0RGVmYXVsdFdlaWdodFByb3BlcnR5c3EAfgAM96vKa3QACW5vdGlmeUFsbHNxAH4ADPPzVup0AB5zY2FsYVRlc3RSZWFkYWJsZUZpbGVzUHJvcGVydHlzcQB+AAzF6MOjdAARc2NhbGFUZXN0UmVwb3J0ZXJzcQB+AAwpuM4PdAAMaXNJbnN0YW5jZU9mc3EAfgAMXCSaXXQAJnNjYWxhVGVzdEluZGl2aWR1YWxUZXN0VGltZW91dFByb3BlcnR5c3EAfgAMbTiV0XQAFnNjYWxhVGVzdERlZmF1bHRXZWlnaHRzcQB+AAyf9aKtdAATbWF4T3V0cHV0TGluZUxlbmd0aHNxAH4ADANEpKB0AAI9PXNxAH4ADNPY6fB0AAVjbG9uZXNxAH4ADADFmSl0ABVpbmRpdmlkdWFsVGVzdFRpbWVvdXRzcQB+AAyHISJRdAARbWF4U3VibWl0RmlsZVNpemVzcQB+AAxd6ZG+dAAIdG9TdHJpbmdzcQB+AAwH+1wtdAACIT1zcQB+AAzvdUvJdAAIZ2V0Q2xhc3NzcQB+AAyrNAo6dAAQc2NhbGFUZXN0VGltZW91dHNxAH4ADN1xJyJ0AAJuZXNxAH4ADDkpUhF0AAJlcXNxAH4ADNl3oMF0AAIjI3NxAH4ADETFA2d0AAhmaW5hbGl6ZXNxAH4ADLXBz790AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AE3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AjXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXQAA0FueXNxAH4AhXNxAH4AiHVxAH4AiwAAAAJzcQB+AI10AAVzY2FsYXEAfgCUcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ3CRyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPRDpcR2l0SHViXFNjYWxhLUFzc2lnbm1lbnQwMi1GdW5zZXRzXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNfgByw8DBagGtDccnyX7Mz493ka
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBRrumIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNwbmbh0AAZub3RpZnlzcQB+AAwpnkOOdAAEd2FpdHNxAH4ADMhEX0l0AAZjb3Vyc2VzcQB+AAxKh8zAdAANJGFzSW5zdGFuY2VPZnNxAH4ADJ21jvJ0AAxidWlsZExvYWRlcnNzcQB+AAxhC4OUdAAIY291cnNlSWRzcQB+AAyDofcFdAAEcm9vdHNxAH4ADBoexuZ0AAZlcXVhbHNzcQB+AAwv3CK3dAAMYXNJbnN0YW5jZU9mc3EAfgAM6qMJq3QAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADKZQ/e50AAxzeW5jaHJvbml6ZWRzcQB+AAyrTQLbdAANJGlzSW5zdGFuY2VPZnNxAH4ADDA6UHJ0ABJzdWJtaXRMb2NhbFNldHRpbmdzcQB+AAy750zIdAAMZW5jb2RlQmFzZTY0c3EAfgAMyjpFfnQABnN1Ym1pdHNxAH4ADD8bnit0AAlub3RpZnlBbGxzcQB+AAyJdxdTdAANc3VibWl0U2V0dGluZ3NxAH4ADByXkiN0AAtyb290UHJvamVjdHNxAH4ADDpZ06V0AAxpc0luc3RhbmNlT2ZzcQB+AAyOq+HzdAAKcHJlcGFyZUphcnNxAH4ADKLsVSt0AApzdHlsZUNoZWNrc3EAfgAMQzLuF3QAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMVoN8GXQAAj09c3EAfgAMfUs303QAC3N1Ym1pdExvY2Fsc3EAfgAMOg+CC3QABWNsb25lc3EAfgAMA8dlTHQAE3NjYWxhVGVzdERlcGVuZGVuY3lzcQB+AAzqrhaKdAAdc291cmNlTWFwcGluZ3NXaXRob3V0UGFja2FnZXNzcQB+AAzqtXp7dAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADP6J6Bd0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADIZYxJ50AAh0b1N0cmluZ3NxAH4ADAojRQ10AAIhPXNxAH4ADLeFaiZ0AAhwcm9qZWN0c3NxAH4ADBFIMXN0AAxTdHVkZW50QnVpbGRzcQB+AAwhqIOHdAAIZ2V0Q2xhc3NzcQB+AAx/Sji5dAAKYXNzaWdubWVudHNxAH4ADCV0i3F0AAJuZXNxAH4ADK7Md5N0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADGqbvnl0AAJlcXNxAH4ADBAYFzJ0AAhzZXR0aW5nc3NxAH4ADLirWHJ0AApmYWlsU3VibWl0c3EAfgAMSfrEUXQAAiMjc3EAfgAMfnznZXQACGZpbmFsaXplc3EAfgAMM1QzDXQACGhhc2hDb2Rlc3EAfgAM34wbunQADmFzc2lnbm1lbnRzTWFwc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ab3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCGAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AI1zcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAQU3R1ZGVudEJ1aWxkTGlrZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AmXQAC0NvbW1vbkJ1aWxkcQB+AJ9zcQB+AJl0AAVCdWlsZHNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCmdAADc2J0cQB+AKdzcQB+AJl0AAZPYmplY3RzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgCvdAAEamF2YXNxAH4Ar3QABGxhbmdxAH4Ap3NxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AK90AAVzY2FsYXEAfgCncHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ3CRyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPRDpcR2l0SHViXFNjYWxhLUFzc2lnbm1lbnQwMi1GdW5zZXRzXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOyJ0J8ykxJu7l9BJ3eei/BSZ0CV
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA71U5YAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDqV9PZ0AAZub3RpZnlzcQB+AAyXehM5dAAMTWFwTWFwU3RyaW5nc3EAfgAMtKWlhnQAEFN0dWRlbnRCdWlsZExpa2VzcQB+AAx6IzWmdAAEd2FpdHNxAH4ADDPaF390AAZjb3Vyc2VzcQB+AAwS95wHdAANJGFzSW5zdGFuY2VPZnNxAH4ADAzzrb50AAxidWlsZExvYWRlcnNzcQB+AAzQaEhWdAAIY291cnNlSWRzcQB+AAx/pS1VdAADbWFwc3EAfgAMuYOrBHQABHJvb3RzcQB+AAyQ/TWqdAAMcHJvZHVjdEFyaXR5c3EAfgAMJwYMiHQABmVxdWFsc3NxAH4ADG14XLx0AAxhc0luc3RhbmNlT2ZzcQB+AAziS16hdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMnNthRnQADHN5bmNocm9uaXplZHNxAH4ADEn4yG90AA0kaXNJbnN0YW5jZU9mc3EAfgAMvGOpQnQAEnN1Ym1pdExvY2FsU2V0dGluZ3NxAH4ADFnPe/Z0AAxlbmNvZGVCYXNlNjRzcQB+AAyN1Z1YdAAIY2FuRXF1YWxzcQB+AAyN2xmWdAAGc3VibWl0c3EAfgAMN9gOJ3QADXByb2R1Y3RQcmVmaXhzcQB+AAxM2l2SdAAJbm90aWZ5QWxsc3EAfgAMwh4AxXQADXN1Ym1pdFNldHRpbmdzcQB+AAzMxzopdAALcm9vdFByb2plY3RzcQB+AAxbcKkKdAAMaXNJbnN0YW5jZU9mc3EAfgAMMcpjW3QABjxpbml0PnNxAH4ADOB6iUR0AApwcmVwYXJlSmFyc3EAfgAM9Vs2HnQACnN0eWxlQ2hlY2tzcQB+AAyroNJTdAAUY29tbW9uU291cmNlUGFja2FnZXNzcQB+AAxFEGXAdAACPT1zcQB+AAxDUMZYdAALc3VibWl0TG9jYWxzcQB+AAxHKl6/dAAFY2xvbmVzcQB+AAx9Vs4mdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADHekC/J0AB1zb3VyY2VNYXBwaW5nc1dpdGhvdXRQYWNrYWdlc3NxAH4ADOfcmJ90ABZwYWNrYWdlU3VibWlzc2lvbkZpbGVzc3EAfgAMBpaYzHQAEXBhY2thZ2VTdWJtaXNzaW9uc3EAfgAMsqOyQXQABGNvcHlzcQB+AAwqcfoWdAAIdG9TdHJpbmdzcQB+AAwP61f8dAACIT1zcQB+AAwoBAEIdAAIcHJvamVjdHNzcQB+AAwc/YjsdAAIZ2V0Q2xhc3NzcQB+AAxiNxcwdAAOY29weSRkZWZhdWx0JDFzcQB+AAypKx0IdAAKYXNzaWdubWVudHNxAH4ADIWXvdZ0AAJuZXNxAH4ADGloGjN0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADPqvMm10AAJlcXNxAH4ADH/rUel0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxkbteJdAAIc2V0dGluZ3NzcQB+AAxbJmkNdAAKZmFpbFN1Ym1pdHNxAH4ADFcTl0l0AAIjI3NxAH4ADLlWVNN0AAhmaW5hbGl6ZXNxAH4ADDdbGsJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDe5VEZ0AAhoYXNoQ29kZXNxAH4ADMdvWrp0AA5hc3NpZ25tZW50c01hcHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKFzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCgdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6c3EAfgCtcQB+ALBzcQB+ALFzcQB+ALR1cQB+ALcAAAADc3EAfgC5dAAEamF2YXNxAH4AuXQAAmlvcQB+AL5zcQB+AK10AAdQcm9kdWN0cQB+ALNzcQB+AK10AAZFcXVhbHNxAH4As3NxAH4ArXQABk9iamVjdHNxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4AxHNxAH4AuXQABGxhbmdxAH4AvnNxAH4ArXQAA0FueXEAfgCzcHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ABN1cQB+AJIAAAAAcQB+AJZ1cQB+AJgAAAAAc3EAfgCaAXEAfgCicHNxAH4AmgFzcQB+AKRzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXEAfgB+AAAAAHBzcQB+AJoBdXEAfgCrAAAABHNxAH4ArXQAC0NvbW1vbkJ1aWxkc3EAfgCxc3EAfgC0dXEAfgC3AAAAAXEAfgC+c3EAfgCtdAAFQnVpbGRzcQB+ALFzcQB+ALR1cQB+ALcAAAACc3EAfgC5dAADc2J0cQB+AL5zcQB+AK1xAH4AzHNxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4AxHNxAH4AuXEAfgDScQB+AL5zcQB+AK1xAH4A1HNxAH4AsXNxAH4AtHVxAH4AtwAAAAJzcQB+ALlxAH4AvHEAfgC+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ3CRyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPRDpcR2l0SHViXFNjYWxhLUFzc2lnbm1lbnQwMi1GdW5zZXRzXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCmtRXGLtXAKwaJBJU1Js0137ddi
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPYNO4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMYRmT10AAZub3RpZnlzcQB+AAwBAc68dAAEd2FpdHNxAH4ADEXgygJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxDOjbXQABmVxdWFsc3NxAH4ADHwbGyF0AAxhc0luc3RhbmNlT2ZzcQB+AAw15InYdAADcG9zc3EAfgAM+We3HHQADHN5bmNocm9uaXplZHNxAH4ADOpL5nV0AAVzY29yZXNxAH4ADO8MWO90AA0kaXNJbnN0YW5jZU9mc3EAfgAM5nyJTHQABWluZm9zc3EAfgAMy05A8XQACHdhcm5pbmdzc3EAfgAMWmLS23QABmVycm9yc3NxAH4ADDm4A3N0AAtlYWNoTWVzc2FnZXNxAH4ADIY5LvZ0AAVmaWxlc3NxAH4ADNq4ZWl0AAlub3RpZnlBbGxzcQB+AAzZUrWxdAAMaXNJbnN0YW5jZU9mc3EAfgAMqozU6nQACW1heFJlc3VsdHNxAH4ADGdrOWV0AAY8aW5pdD5zcQB+AAxeTfJ7dAAJZmlsZUNvdW50c3EAfgAM4H5eAnQAAj09c3EAfgAMazJ5hHQABmFzc2Vzc3NxAH4ADHo0SXZ0AAVjbG9uZXNxAH4ADFBWeVR0AAZyZXBvcnRzcQB+AAwh0c+xdAAHbWVzc2FnZXNxAH4ADJjayQ50AAh0b1N0cmluZ3NxAH4ADKYogRR0AAIhPXNxAH4ADGLD7tl0AA1tZXNzYWdlSGVscGVyc3EAfgAMMF6naHQADFN0eWxlQ2hlY2tlcnNxAH4ADC6nT+R0AAhnZXRDbGFzc3NxAH4ADP2mG4t0AAZvdXRwdXRzcQB+AAwNQGNbdAACbmVzcQB+AAzkavumdAACZXFzcQB+AAzl7NTKdAACIyNzcQB+AAzRexIcdAAIZmluYWxpemVzcQB+AAzpgwCtdAAIaGFzaENvZGVzcQB+AAzWqZeedAAQQ3VzdG9tVGV4dE91dHB1dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ARXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AdgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgB9c3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnNxAH4AiXQAA0FueXNxAH4AjXNxAH4AkHVxAH4AkwAAAAJzcQB+AJV0AAVzY2FsYXEAfgCccHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ3CRyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPRDpcR2l0SHViXFNjYWxhLUFzc2lnbm1lbnQwMi1GdW5zZXRzXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIyC1TaPneX2ZAwpUYIp/fbXlsWv
+external apis:
+0 items
+source infos:
+7 items
+D:\GitHub\Scala-Assignment02-Funsets\project\CommonBuild.scala -> 
+AAAAAAAAAAA=
+D:\GitHub\Scala-Assignment02-Funsets\project\GradingFeedback.scala -> 
+AAAAAAAAAAA=
+D:\GitHub\Scala-Assignment02-Funsets\project\ScalaTestRunner.scala -> 
+AAAAAAAAAAA=
+D:\GitHub\Scala-Assignment02-Funsets\project\Settings.scala -> 
+AAAAAAAAAAA=
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuild.scala -> 
+AAAAAAAAAAA=
+D:\GitHub\Scala-Assignment02-Funsets\project\StudentBuildLike.scala -> 
+AAAAAAAAAAA=
+D:\GitHub\Scala-Assignment02-Funsets\project\StyleChecker.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZt85FN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkQ6XEdpdEh1YlxTY2FsYVxGdW5zZXRzXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ2+JSx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XEdpdEh1YlxTY2FsYS1Bc3NpZ25tZW50MDItRnVuc2V0c1xwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZ3CRyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XEdpdEh1YlxTY2FsYS1Bc3NpZ25tZW50MDItRnVuc2V0c1xwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv

@@ -1,0 +1,28 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[31m- singletonSet(1) contains 1 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSets$.singletonSet(FunSets.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$TestSets$class.$init$(FunSetSuite.scala:77)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$3$$anon$1.<init>(FunSetSuite.scala:95)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$3.apply$mcV$sp(FunSetSuite.scala:95)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$3.apply(FunSetSuite.scala:95)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$3.apply(FunSetSuite.scala:95)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- union contains all elements of each set *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSets$.singletonSet(FunSets.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$TestSets$class.$init$(FunSetSuite.scala:77)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$4$$anon$2.<init>(FunSetSuite.scala:105)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$4.apply$mcV$sp(FunSetSuite.scala:105)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$4.apply(FunSetSuite.scala:105)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at funsets.FunSetSuite$$anonfun$4.apply(FunSetSuite.scala:105)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
